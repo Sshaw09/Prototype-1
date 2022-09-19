@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 3621
+  controlID: 49
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -173,7 +173,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: Default
+  m_LastLoadedLayoutName: 
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 3622
+  controlID: 50
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 3623
+  controlID: 51
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -337,20 +337,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts (Plane)
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts (Plane)
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/stephenshaw/Documents/GitHub/Prototype-1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ea090000
-    m_LastClickedID: 2538
-    m_ExpandedIDs: ffffffff00000000ea090000560a0000840a0000880a0000622b00006a2b00006c2b000000ca9a3b
+    m_SelectedIDs: 4c0a0000
+    m_LastClickedID: 2636
+    m_ExpandedIDs: 00000000f20900004c0a0000600a00008e0a0000920a00006c0b00002e0c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000ea090000560a0000880a0000622b00006a2b00006c2b000000ca9a3b
+    m_ExpandedIDs: 00000000f20900004c0a0000600a00008e0a0000920a00006c0b00002e0c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -497,9 +497,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 662b0000
+      m_SelectedIDs: ba070000
       m_LastClickedID: 0
-      m_ExpandedIDs: 2ca6ffff0aa7fffff4a7ffff06adffffe4adffff3eafffffaaf3ffff8a2d0000
+      m_ExpandedIDs: bcf9ffffdefbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -539,8 +539,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Scene
-    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
-      type: 0}
+    m_Image: {fileID: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
