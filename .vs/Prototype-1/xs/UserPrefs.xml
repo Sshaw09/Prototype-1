@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{8796AE75-3B99-EC24-DD68-05BDEC88185B}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Mini Project/MoveForward.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="18" Column="71" />
+      <File FileName="Assets/Mini Project/SpawnManager.cs" Line="16" Column="32" />
+      <File FileName="Assets/Mini Project/MoveForward.cs" Line="21" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Prototype-1" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="PlayerController.cs" selected="True" />
+              <Node name="Mini Project" expanded="True">
+                <Node name="MoveForward.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -19,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="14b33ba1-dfdc-4bfc-be59-27373826614c" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0ec11e9a-00a5-40fe-a983-95920a3a11e0" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
