@@ -64,6 +64,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Mini Project\DestroyManager.cs" />
     <Compile Include="Assets\Mini Project\MoveForward.cs" />
     <Compile Include="Assets\Mini Project\SpawnManager.cs" />
     <Compile Include="Assets\Scripts (Car)\FollowPlayer.cs" />
